@@ -22,7 +22,7 @@ Example: *("Acu by Neigefeu (75%) - Geometry Dash")*
 When streaming Geometry Dash on **OBS**, the window title only showed _"Geometry Dash"_, making it impossible to manage my clips properly.  
 
 ## ⚙️ Installation  
-1. Download the file `hallacadotsvp.window_title.geode`  
+1. Download the file `hallaquin.window_title.geode`  
 2. Place it in the `Geometry Dash/geode/mods/` folder  
 3. Launch Geometry Dash  
 
