@@ -1,14 +1,11 @@
 {
 	"geode": "4.7.0",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "2.2074"
 	},
-	"id": "hallacadotsvp.window_title",
+	"id": "hallaquin.window_title",
 	"name": "Window Title",
 	"version": "v1.0.0",
-	"developer": "hallacadotsvp",
-	"description": "Renames the game window to the level you're playing, with some other extra info."
+	"developer": "hallaquin",
+	"description": "Renames the game window title to the level you're playing."
 }
