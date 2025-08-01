@@ -2,7 +2,6 @@
 [Readme en Español](https://github.com/hallaquin/windowtitle/blob/master/readme_ES.md)
 
 Modifies the Geometry Dash window title to display real-time information about the level you're playing.  
-Here's our logo (hover to see the title text):  
 
 Example: *("Acu by Neigefeu (75%) - Geometry Dash")*  
 

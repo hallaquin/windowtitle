@@ -1,7 +1,6 @@
 # Geometry Dash Window Title Mod 🔄
 
 Modifica el título de la ventana de Geometry Dash para mostrar información en tiempo real del nivel que estás jugando.
-Here's our logo (hover to see the title text):
 
 Ejemplo: *("Acu by Neigefeu (75%) - Geometry Dash")*
 
