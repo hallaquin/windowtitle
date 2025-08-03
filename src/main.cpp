@@ -1,12 +1,12 @@
 #include <Geode/Geode.hpp>
 #include <Windows.h>
 #include <stdio.h>
-#include <Geode/modify/MenuLayer.hpp>
+/*#include <Geode/modify/MenuLayer.hpp>
 #include <Geode/modify/CreatorLayer.hpp>
 #include <Geode/modify/LevelSearchLayer.hpp>
 #include <Geode/modify/LevelInfoLayer.hpp>
 #include <Geode/modify/DailyLevelPage.hpp>
-#include <Geode/modify/LevelBrowserLayer.hpp>
+#include <Geode/modify/LevelBrowserLayer.hpp>*/
 #include <Geode/modify/PlayLayer.hpp>
 
 using namespace geode::prelude;

@@ -37,6 +37,7 @@ When streaming Geometry Dash on **OBS**, the window title only showed _"Geometry
 ## 📜 To Do:  
 - macOS compatibility.  
 - Change the method for initially finding the window.  
-- Custom formatting.  
+- Custom formatting.
+- StartPos Compatibility.
 
 For any issues, please open an issue.
